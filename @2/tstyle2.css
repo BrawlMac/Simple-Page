@@ -1,7 +1,7 @@
 body{
     margin: 0; /* Убираем отступы */
     height: 100%; /* Высота страницы */
-    background: url(backgr2);
+    background: url(backgr.png);
     background-size: cover; /* Фон занимает всю доступную площадь */
 }
 ul {
