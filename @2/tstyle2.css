@@ -1,7 +1,7 @@
 body{
     margin: 0; /* Убираем отступы */
     height: 100%; /* Высота страницы */
-    background: url(https://storage.easyx.ru/images/easydonate/backgrounds/1nUFHyxr096MAd0G26fkWEIzXbss8DlC.png);
+    background: url(backgr2);
     background-size: cover; /* Фон занимает всю доступную площадь */
 }
 ul {
